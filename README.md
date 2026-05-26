@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 💻 Técnica em Informática  
-🚀 Front-end Developer em formação pelo PROA + Serasa Experian  
+🚀 Front-end Developer em formação no Transforme-se Proa  
 
 ---
 
@@ -85,15 +85,6 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaborgess&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaborgess&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 Sequência de Contribuições
 
