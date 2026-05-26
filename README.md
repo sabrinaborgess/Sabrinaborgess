@@ -87,21 +87,17 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 
 # 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaborgess&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaborgess&layout=compact&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrinaborgess&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinaborgess&layout=compact&theme=tokyonight"/>
-
-</div>
+---
 
 # 🔥 Sequência de Contribuições
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sabrinaborgess&theme=tokyonight"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabrinaborgess&theme=tokyonight"/>
+</p>
 
