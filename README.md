@@ -86,9 +86,9 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrinaborgess&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaborgess&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaborgess&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaborgess&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -104,4 +104,3 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 
 ---
 
-# 🌐 Redes Sociais
