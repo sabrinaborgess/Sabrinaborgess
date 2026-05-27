@@ -1,29 +1,40 @@
 # 👋 Oii, eu sou a Sabrina Borges
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Técnica em Informática  
-🚀 Front-end Developer em formação no Transforme-se Proa  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Front-end+Developer+em+forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+%F0%9F%92%9C;Criando+projetos+e+aprendendo+todos+os+dias+%F0%9F%9A%80"/>
+</p>
 
 ---
 
-# 👩‍💻 Sobre Mim
+## 💜 Sobre Mim
+
+🎓 Estudante de *Análise e Desenvolvimento de Sistemas (ADS)*  
+💻 Técnica em Informática  
+🚀 Front-end Developer em formação no *Transforme-se PROA*  
 
 Sou apaixonada por tecnologia, design e desenvolvimento.  
-Atualmente estou estudando programação, desenvolvimento Front-end, versionamento de código e criação de interfaces utilizando Figma.
+Atualmente estou estudando programação, desenvolvimento Front-end, Git & GitHub e criação de interfaces no Figma.
 
-Também participei do programa *Bolsa Juventude*, onde desenvolvi um robô inspirado no BMO 🎮 utilizando programação, eletrônica e impressão 3D.
+✨ Gosto de criar projetos criativos, aprender novas tecnologias e transformar ideias em experiências digitais.
 
 ---
 
 # 🤖 Projeto em Destaque
 
-## BMO Interativo — Bolsa Juventude
+## 🎮 BMO Interativo — Bolsa Juventude
 
-Projeto desenvolvido durante o programa Bolsa Juventude.
+Projeto desenvolvido durante o programa *Bolsa Juventude*.
 
-O robô possuía interação através de botões físicos, emitia falas e apresentava expressões faciais em uma tela de LED programada.
+Criei um robô inspirado no personagem *BMO*, utilizando programação, eletrônica e impressão 3D.
+
+O robô possuía interação através de botões físicos, reprodução de falas e expressões faciais exibidas em uma tela LED programada.
+
+<p align="center">
+  <img src="https://i.imgur.com/N0tV6Gx.png" width="300"/>
+</p>
 
 ### 🚀 Funcionalidades
+
 - 🎤 Reprodução de frases
 - 😀 Expressões faciais em LED
 - 🔘 Interação por botões
@@ -31,11 +42,13 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 - 🛠️ Protótipo físico do robô
 
 ### 🧰 Tecnologias Utilizadas
-- Arduino
-- Programação C/C++
-- Tela LED
-- Impressão 3D
-- Eletrônica básica
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/LED_Display-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impress%C3%A3o_3D-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -48,6 +61,8 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+---
+
 ## 💻 Front-end
 
 <p>
@@ -56,12 +71,16 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+---
+
 ## ⚙️ Back-end & Linguagens
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+---
 
 ## 🛠️ Ferramentas & Versionamento
 
@@ -75,18 +94,13 @@ O robô possuía interação através de botões físicos, emitia falas e aprese
 
 # 📚 Atualmente Estudando
 
-- Desenvolvimento Front-end
-- Git & GitHub
-- Interfaces no Figma
-- JavaScript
-- Python
-
----
-
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabrinaborgess&theme=tokyonight"/>
-</p>
-
+```js
+const sabrina = {
+  estudando: [
+    "Front-end",
+    "JavaScript",
+    "Python",
+    "Git & GitHub",
+    "UI/UX no Figma"
+  ],
+};
