@@ -89,15 +89,27 @@ O robô possuía interação através de botões físicos, reprodução de falas
 
 ---
 
-# 📚 Atualmente Estudando
+# 🌱 Atualmente Explorando
 
-```js
-const sabrina = {
-  estudando: [
-    "Front-end",
-    "JavaScript",
-    "Python",
-    "Git & GitHub",
-    "UI/UX no Figma"
-  ],
-};
+🚀 Front-end Development  
+🎨 UI/UX Design no Figma & Canva  
+⚡ JavaScript Interativo  
+🐍 Python & lógica de programação  
+🔧 Git e GitHub  
+💡 Desenvolvimento de projetos criativos
+
+---
+
+# 🎯 Objetivo
+
+Buscando crescer na área de tecnologia, desenvolver projetos criativos e conquistar minha primeira oportunidade como desenvolvedora, evoluindo constantemente minhas habilidades em programação, design e desenvolvimento web.
+
+---
+
+# 💜 Frase Motivacional
+
+<p align="center">
+
+✨ “A tecnologia move o mundo.” — Steve Jobs ✨
+
+</p>
