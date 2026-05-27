@@ -91,9 +91,9 @@ O robô possuía interação através de botões físicos, reprodução de falas
 
 # 🌱 Atualmente Explorando
 
-🚀 Front-end Development  
+🚀 Front-end   
 🎨 UI/UX Design no Figma & Canva  
-⚡ JavaScript Interativo  
+⚡ JavaScript 
 🐍 Python & lógica de programação  
 🔧 Git e GitHub  
 💡 Desenvolvimento de projetos criativos
