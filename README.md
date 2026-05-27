@@ -19,9 +19,9 @@ Atualmente estou estudando programação, desenvolvimento Front-end, Git & GitHu
 
 ---
 
-# 🤖 Projeto em Destaque
+# 🤖 Projeto 
 
-## 🎮 BMO Interativo — Bolsa Juventude
+## 🎮 BMO Interativo — Fab Lab
 
 Projeto desenvolvido durante o programa *Bolsa Juventude*.
 
