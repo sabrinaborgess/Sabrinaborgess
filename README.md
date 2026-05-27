@@ -110,6 +110,7 @@ Buscando crescer na área de tecnologia, desenvolver projetos criativos e conqui
 
 <p align="center">
 
-✨ “A tecnologia move o mundo.” — Steve Jobs ✨
+✨ “A boa sorte não aparece por acaso; ela é construída dia após dia.”  
+— Alex Rovira & Fernando Trías de Bes ✨
 
 </p>
