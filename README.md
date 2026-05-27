@@ -29,9 +29,6 @@ Criei um robô inspirado no personagem *BMO*, utilizando programação, eletrôn
 
 O robô possuía interação através de botões físicos, reprodução de falas e expressões faciais exibidas em uma tela LED programada.
 
-<p align="center">
-  <img src="https://i.imgur.com/N0tV6Gx.png" width="300"/>
-</p>
 
 ### 🚀 Funcionalidades
 
